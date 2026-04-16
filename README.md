@@ -1,10 +1,39 @@
-# Mock-Health-System
+# panel-price-predictor
 
-This Mock Health System SPA simulates a health management platform for patients to enter and manage their medical data. It is built with Vanilla JavaScript for basic functionality and helper scripts, React for handling he UI components and dynamic content,  Node.js for managing data and libraries, and Vite: for building the web app.
+A data-driven system for predicting comic book prices using historical sales data, market trends, and event-driven analysis.
 
-### Patient Name Information Page
+---
 
-### Patient Health Information Page
+## Overview
 
-### Patient Summary Page
+Panel Price Predictor is designed to estimate the market value of comic books by combining:
 
+- Historical sales data
+- Comic metadata (issue, publisher, grade, etc.)
+- Market trends over time
+- External events (movies, shows, announcements)
+
+The goal is to move beyond static pricing and begin modeling **how hype and real-world events influence collectible markets**.
+
+---
+
+## Features (Planned)
+
+- Price prediction using machine learning
+- Historical price trend visualization
+- Event-driven analysis (movies, shows, announcements)
+- Comparable sales insights
+- Hype signal detection (future)
+
+---
+
+## Tech Stack
+
+### Frontend
+- TypeScript
+
+### Backend
+- Python
+
+### Database
+- PostgreSQL (via Supabase)
